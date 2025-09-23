@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Deimer2020.github.io/ITA-MINA",
   "name": "iea-la-mina",
   "private": true,
   "version": "0.0.0",
@@ -7,9 +8,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "swiper": "^12.0.1"
