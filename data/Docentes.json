@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "slug": "DeimerArias",
+    "nombre": "Deimer Jose Arias Monsalve",
+    "materia": "Informatica",
+    "area": "Tecnologia e Informacion",
+    "email": "monsalvedeimer53@gmail.com",
+    "tel": "3145906586",
+    "bio": "Docente de Informatica , Ingeniero de Sistemas apasionado por la innovación tecnológica y el desarrollo de soluciones de software eficientes y robustas. Con una sólida formación en Node.js,React js, vanilla js, Angular, MongoDB, SQL, HTML, CSS, y más de 2 años de experiencia en la industria, he demostrado un compromiso inquebrantable con la excelencia y la calidad en cada proyecto que emprendo.",
+    "proyectos": [
+      { "titulo": "RED STEAM", "anio": 2025, "evidencia": "proyecto1.jpeg" },
+      { "titulo": "Capacitaciones a Estudiantes del Grado 9 ", "anio": 2025, "evidencia": "proyecto2.jpeg" }
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "Eudes",
+    "nombre": "Eudes",
+    "materia": "Matemáticas",
+    "area": "Matemáticas",
+    "email": "carlos.medina@iea.edu.co",
+    "tel": "3007654321",
+    "bio": "Apasionado por la resolución de problemas y el aprendizaje por proyectos.",
+    "proyectos": [
+      { "titulo": "Olimpiadas de matemáticas", "anio": 2024, "evidencia": "olimpiadas-1.jpg" }
+    ]
+  }
+]
